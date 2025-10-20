@@ -1,0 +1,6 @@
+Core computer vision and AI libraries:-
+
+opencv-python
+mediapipe
+pyautogui
+numpy
