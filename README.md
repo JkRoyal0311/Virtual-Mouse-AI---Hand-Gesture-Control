@@ -49,9 +49,9 @@ Installation & Setup:-
     
   Step 2: Create Virtual Environment (Recommended)
   python -m venv Myvenv
-  # On Windows:
+  # On Windows:-
   Myvenv\Scripts\activate
-  # On Mac/Linux:
+  # On Mac/Linux:-
   source venv/bin/activate
   
   Step 3: Install Dependencies
