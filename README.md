@@ -70,3 +70,6 @@ How It Works:-
     - Recognize Gestures (pinch, two-finger, etc.).
     - Trigger Mouse Actions via PyAutoGU
 
+
+<img width="641" height="511" alt="Virrtual_Mouse" src="https://github.com/user-attachments/assets/69c3e4e5-1ca4-4fcf-980e-c4ee80b01643" />
+
